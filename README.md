@@ -3,7 +3,7 @@ Web Link: http://127.0.0.1:5000
 Deployment Link: lasya-project.vercel.app
 
 
-Features of Project
+-Features of Project
 
 1.Speech-to-Text Integration
 
