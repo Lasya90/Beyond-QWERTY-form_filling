@@ -14,3 +14,14 @@ Email Validation
 
 4.Displays a validation message in the required box if:
 The email address does not contain the @ symbol.
+
+
+STEPS TO Follow:
+
+1.Click on the Login/Signup Buttom in the Home page
+
+2. Signup First and then Login to Form
+
+3. Then fill the Student Registration Form
+
+4. Click on the Submit Button
