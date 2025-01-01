@@ -16,7 +16,7 @@ Email Validation
 The email address does not contain the @ symbol.
 
 
-STEPS TO Follow:
+-STEPS TO Follow:
 
 1.Click on the Login/Signup Buttom in the Home page
 
